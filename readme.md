@@ -15,6 +15,7 @@ If you want to setup and use this web application locally please read the follow
 
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installation)
+- [Test](#test)
 - [Usage](#Usage)
 
 ## Prerequisites
@@ -41,6 +42,13 @@ cd frontend
 npm install
 ```
 
+## Test
+To test the client, run the following command:
+```shell
+cd frontend
+npm test
+```
+
 ## Usage
 
 To start the server, run the following command:
@@ -57,5 +65,5 @@ cd frontend
 npm start
 ```
 
-You can access the application at `http://localhost:3000`.
+You can access the application at `http://localhost:3001`.
 
